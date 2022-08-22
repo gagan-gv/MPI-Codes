@@ -19,3 +19,6 @@ EMU8086 Assembly Codes
   - [ASCII adjustment after subtraction](./EX3_2.asm)
   - [ASCII adjustment after multiplication](./EX3_3.asm)
   - [ASCII adjustment after division](./EX3_4.asm)
+4. Exercise 4
+  - [Transfer a string from one location to another.](./EX4_1.asm)
+  - [To reverse a given string input.](./EX4_2.asm)
