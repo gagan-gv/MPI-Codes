@@ -22,3 +22,5 @@ EMU8086 Assembly Codes
 4. Exercise 4
   - [Transfer a string from one location to another.](./EX4_1.asm)
   - [To reverse a given string input.](./EX4_2.asm)
+5. Exercise 5
+  - [Create a 7-Segment display Interface](./EX5.asm)
